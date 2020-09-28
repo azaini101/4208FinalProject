@@ -92,7 +92,7 @@ const renderNavbar = async function () {
     if (footer) {
         footer.innerHTML = `<footer class="bg-dark">
                             <div class="container">
-                                <p class="text-center" style="color:#FFFFFF;">Copyright &copy; 2020 Kauther Zeini and Ali Zaini</p>
+                                <p class="text-center" style="color:#FFFFFF;">Copyright &copy; 2020 Ali Zaini and Kauther Zeini</p>
                             </div>
                         </footer>`;
     }
